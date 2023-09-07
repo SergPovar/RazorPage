@@ -1,0 +1,17 @@
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/bin/Debug/net6.0/RazorPage.Services.deps.json
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/bin/Debug/net6.0/RazorPage.Services.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/bin/Debug/net6.0/RazorPage.Services.pdb
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/bin/Debug/net6.0/RazorPage.Models.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/bin/Debug/net6.0/RazorPage.Models.pdb
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.csproj.AssemblyReference.cache
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.AssemblyInfoInputs.cache
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.AssemblyInfo.cs
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.csproj.CoreCompileInputs.cache
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.csproj.CopyComplete
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/refint/RazorPage.Services.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.pdb
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/ref/RazorPage.Services.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/bin/Debug/net6.0/RazorPage.Services.runtimeconfig.json
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Services/obj/Debug/net6.0/RazorPage.Services.genruntimeconfig.cache

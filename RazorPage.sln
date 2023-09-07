@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPage", "RazorPage\RazorPage.csproj", "{09BEE0C5-D88C-468D-8319-478FB19958A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPage.Models", "RazorPage.Models\RazorPage.Models.csproj", "{24BC400F-6575-4E45-BAB3-1B62E55C65FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPage.Services", "RazorPage.Services\RazorPage.Services.csproj", "{DBB6E7FC-BF05-46C2-B825-5CEB09F6A9B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BEE0C5-D88C-468D-8319-478FB19958A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BEE0C5-D88C-468D-8319-478FB19958A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BEE0C5-D88C-468D-8319-478FB19958A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BEE0C5-D88C-468D-8319-478FB19958A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24BC400F-6575-4E45-BAB3-1B62E55C65FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BC400F-6575-4E45-BAB3-1B62E55C65FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BC400F-6575-4E45-BAB3-1B62E55C65FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BC400F-6575-4E45-BAB3-1B62E55C65FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB6E7FC-BF05-46C2-B825-5CEB09F6A9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB6E7FC-BF05-46C2-B825-5CEB09F6A9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB6E7FC-BF05-46C2-B825-5CEB09F6A9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB6E7FC-BF05-46C2-B825-5CEB09F6A9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/bin/Debug/net6.0/RazorPage.Models.deps.json
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/bin/Debug/net6.0/RazorPage.Models.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/bin/Debug/net6.0/RazorPage.Models.pdb
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/RazorPage.Models.csproj.AssemblyReference.cache
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/RazorPage.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/RazorPage.Models.AssemblyInfoInputs.cache
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/RazorPage.Models.AssemblyInfo.cs
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/RazorPage.Models.csproj.CoreCompileInputs.cache
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/RazorPage.Models.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/refint/RazorPage.Models.dll
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/RazorPage.Models.pdb
+/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/obj/Debug/net6.0/ref/RazorPage.Models.dll

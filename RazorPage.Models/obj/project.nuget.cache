@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDyqz3rPU/3gxVf1ZZHNtNpyUNLszUiZt8wDZjYpsgFdjLQMIXg/cpQYxH1K/5NV5QNkgofoMfd6nM3k5qHZgA==",
+  "success": true,
+  "projectFilePath": "/Users/sergejterehov/RiderProjects/RazorPage/RazorPage.Models/RazorPage.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergejterehov/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/mysqlconnector/2.3.0-beta.3/mysqlconnector.2.3.0-beta.3.nupkg.sha512"
+  ],
+  "logs": []
+}

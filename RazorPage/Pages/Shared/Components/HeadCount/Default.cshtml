@@ -1,0 +1,17 @@
+@model System.Collections.Generic.IEnumerable<RazorPage.Models.DeptHeadCount>
+
+<table class="table table-hover rounded-pill">
+    <thead class="thead-light">
+    <tr>Department</tr>
+    <tr>Head Count</tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Department</td>
+            <td>@item.Count</td>
+        </tr>
+    }
+    </tbody>
+</table>
