@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
  builder.Services.AddDbContext<AppDbContext>( optionsBuilder =>
  {
-     optionsBuilder.UseMySql( "server=localhost; user = root; password = Dudkibar88; database= RazorPage_DB;"
+     optionsBuilder.UseMySql( "server=localhost; user = serg; password = 12345; database= RazorPage_DB;"
          ,
          new MySqlServerVersion(new Version(8, 0, 34)));
 });
